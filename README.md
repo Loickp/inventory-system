@@ -1,4 +1,4 @@
-# Inventory système
+# Système d'inventaire
 Voici mon système d'inventaire fait en PHP !
 
 Fonctionnalités :
@@ -12,13 +12,13 @@ Fonctionnalités :
 ![Home page](https://i.imgur.com/ZnwBkTf.png)
 
 #### Inventaire
-![Add post](https://i.imgur.com/Lk2qlMk.png)
+![Inventory](https://i.imgur.com/Lk2qlMk.png)
 
-#### Add product
-![Panel](https://i.imgur.com/3iWH0Yj.png)
+#### Ajout d'un produit
+![Add product](https://i.imgur.com/3iWH0Yj.png)
 
-#### Edit product
-![Dashboard](https://i.imgur.com/TOYNbw5.png)
+#### Edition d'un produit
+![Edit product](https://i.imgur.com/TOYNbw5.png)
 
 
 Le fonctionnement est le même pour les catégories et les marques.
